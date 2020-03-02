@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/monsters-club/static/css/main.5078a77e.chunk.css",
-    "main.js": "/monsters-club/static/js/main.3935fba8.chunk.js",
-    "main.js.map": "/monsters-club/static/js/main.3935fba8.chunk.js.map",
+    "main.js": "/monsters-club/static/js/main.8ed6d84a.chunk.js",
+    "main.js.map": "/monsters-club/static/js/main.8ed6d84a.chunk.js.map",
     "runtime-main.js": "/monsters-club/static/js/runtime-main.db9e061f.js",
     "runtime-main.js.map": "/monsters-club/static/js/runtime-main.db9e061f.js.map",
     "static/js/2.0d232ef2.chunk.js": "/monsters-club/static/js/2.0d232ef2.chunk.js",
     "static/js/2.0d232ef2.chunk.js.map": "/monsters-club/static/js/2.0d232ef2.chunk.js.map",
     "index.html": "/monsters-club/index.html",
-    "precache-manifest.a0d0b3e46621d2f4b88e2843b2fc708a.js": "/monsters-club/precache-manifest.a0d0b3e46621d2f4b88e2843b2fc708a.js",
+    "precache-manifest.0474c85bddb81709c39d8dc747e52e24.js": "/monsters-club/precache-manifest.0474c85bddb81709c39d8dc747e52e24.js",
     "service-worker.js": "/monsters-club/service-worker.js",
     "static/css/main.5078a77e.chunk.css.map": "/monsters-club/static/css/main.5078a77e.chunk.css.map",
     "static/js/2.0d232ef2.chunk.js.LICENSE.txt": "/monsters-club/static/js/2.0d232ef2.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.db9e061f.js",
     "static/js/2.0d232ef2.chunk.js",
     "static/css/main.5078a77e.chunk.css",
-    "static/js/main.3935fba8.chunk.js"
+    "static/js/main.8ed6d84a.chunk.js"
   ]
 }
